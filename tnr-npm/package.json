@@ -1,0 +1,30 @@
+{
+  "name": "tnr",
+  "version": "1.0.4",
+  "description": "Thunder command line utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpeterson42/tnr-npm.git"
+  },
+  "keywords": [
+    "gpu",
+    "machine",
+    "learning",
+    "ai",
+    "network",
+    "blockchain",
+    "cloud",
+    "computing",
+    "compute"
+  ],
+  "author": "cpeterson42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpeterson42/tnr-npm/issues"
+  },
+  "homepage": "https://github.com/cpeterson42/tnr-npm#readme"
+}
